@@ -47,3 +47,4 @@ Email Me: amazingandyyy@gmail.com (welcome, say hi)
 [Nick Wu](https://nickrwu.me)
 
 ### License
+[MIT](https://github.com/nickrwu/stoop/blob/main/LICENSE)
