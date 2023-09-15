@@ -6,11 +6,8 @@ MongoDB, Expressjs, React-Native, Nodejs
 </p>
 
 <p align="center">
-   <a href="https://github.com/amazingandyyy/mern/blob/master/LICENSE">
+   <a href="https://github.com/nickrwu/stoop/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-   </a>
-   <a href="https://circleci.com/gh/amazingandyyy/mern">
-      <img src="https://circleci.com/gh/amazingandyyy/mern.svg?style=svg" />
    </a>
 </p>
 
@@ -41,7 +38,7 @@ redux-thunk: ^2.1.0 |
 
 [Create new Issues](https://github.com/nickrwu/stoop/issues)
 
-Email Me: amazingandyyy@gmail.com (welcome, say hi)
+Email Me: nicholas.wu@stern.nyu.edu
 
 ## Author
 [Nick Wu](https://nickrwu.me)
